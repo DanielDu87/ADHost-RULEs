@@ -1,2 +1,2 @@
 # ADHost-RULEs
-ADHost-RULEs
+Rules from ad-hosts.
