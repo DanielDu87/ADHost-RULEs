@@ -1057,10 +1057,6 @@ DOMAIN,daa.shuzilm.cn
 DOMAIN,dai.shuzilm.cn
 DOMAIN,stream.shuzilm.cn
 DOMAIN,www.shuzilm.cn
-255.255.255.255	broadcasthost
-::1             localhost
-DOMAIN,localhost
-::1             ip6-localhost
 DOMAIN,XiaoQiang
 DOMAIN,geo2.adobe.com
 DOMAIN,get3.adobe.com
@@ -1068,7 +1064,6 @@ DOMAIN,flash.2144.com
 DOMAIN,www.2144.cn
 DOMAIN,iadctest.qwapi.com
 DOMAIN,ieonline.microsoft.com
-13.107.21.200 cn.bing.com
 DOMAIN,dl.2345.com
 DOMAIN,download.2345.com
 DOMAIN,g.wan.2345.com
